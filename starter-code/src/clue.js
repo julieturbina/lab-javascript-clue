@@ -66,23 +66,23 @@ name: bat         ---   weight: 13
 name: trophy      ---   weight: 25
 name: pistol      ---   weight: 20
 
-// Rooms
-name: Dinning Room
-name: Conservatory
-name: Kitchen
-name: Study
-name: Library
-name: Billiard Room
-name: Lounge
-name: Ballroom
-name: Hall
-name: Spa
-name: Living Room
-name: Observatory
-name: Theater
-name: Guest House
-name: Patio
-*/
+// // Rooms
+// name: Dinning Room
+// name: Conservatory
+// name: Kitchen
+// name: Study
+// name: Library
+// name: Billiard Room
+// name: Lounge
+// name: Ballroom
+// name: Hall
+// name: Spa
+// name: Living Room
+// name: Observatory
+// name: Theater
+// name: Guest House
+// name: Patio
+// */
 
 // Characters Collection
 var charactersArray = [];
